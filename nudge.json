@@ -42,15 +42,15 @@
   "userExperience": {
     "allowedDeferrals": 1000000,
     "allowedDeferralsUntilForcedSecondaryQuitButton": 14,
-    "approachingRefreshCycle": 30,
+    "approachingRefreshCycle": 1800,
     "approachingWindowTime": 72,
-    "elapsedRefreshCycle": 300,
+    "elapsedRefreshCycle": 3600,
     "imminentRefeshCycle": 600,
     "imminentWindowTime": 24,
-    "initialRefreshCycle": 60,
+    "initialRefreshCycle": 1200,
     "maxRandomDelayInSeconds": 1200,
     "noTimers": false,
-    "nudgeRefreshCycle": 10,
+    "nudgeRefreshCycle": 60,
     "randomDelay": false
   },
   "userInterface": {
