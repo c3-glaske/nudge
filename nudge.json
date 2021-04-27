@@ -47,7 +47,7 @@
     "elapsedRefreshCycle": 300,
     "imminentRefeshCycle": 600,
     "imminentWindowTime": 24,
-    "initialRefreshCycle": 7200,
+    "initialRefreshCycle": 60,
     "maxRandomDelayInSeconds": 1200,
     "noTimers": false,
     "nudgeRefreshCycle": 60,
